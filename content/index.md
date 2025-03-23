@@ -12,3 +12,5 @@ title: "RenardDev"
 ```
 
 I'm RenardDev and these are my notes.
+
+> ☢️ This is only a DEMO version and information will be added over time ☢️
