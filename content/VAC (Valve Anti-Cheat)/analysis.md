@@ -23,7 +23,7 @@ flowchart LR
 
 ---
 ### See also
-[VAC (Valve Anti-Cheat) - Exploit](exploit)
+[Exploit](exploit)
 
 ---
 ### References
