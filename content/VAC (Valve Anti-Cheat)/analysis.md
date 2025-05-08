@@ -1,5 +1,5 @@
 ---
-title: "Analysis"
+title: Analysis
 tags:
     - Analysis
     - Anti-Cheat
